@@ -11,3 +11,8 @@ change-9
 80
 90
 100
+// changes for Issue-1 - start
+hoge-10
+hoge-20
+hoge-30
+// changes for Issue-1 - end
