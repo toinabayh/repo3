@@ -21,4 +21,4 @@ hoge-3
 // changes for Issue-1 - end
 // change for bug4
 
-bugfix-5
+bugfix-5a
